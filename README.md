@@ -22,6 +22,16 @@ ArtFood - это онлайн-сервис, предоставляющий по�
 
 Документация API находится по пути ```docs/openapi-schema.yml```
 
+## Стек
+* Django REST framework
+* PostgreSQL
+* Nginx
+* Docker
+* Gunicorn
+* GIT 
+* Yandex.Cloud (Ununtu 20.04 LTS)
+* Postman
+
 ## Как развернуть проект
 
 * [Установить docker](https://docs.docker.com/compose/install/)
