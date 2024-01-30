@@ -36,7 +36,6 @@ ArtFood - это онлайн-сервис, предоставляющий по�
 
 * [Установить docker](https://docs.docker.com/compose/install/)
 
-
 * Клонировать репозиторий
 ```bash
 git clone git@github.com:normalisht/ArtFood.git
